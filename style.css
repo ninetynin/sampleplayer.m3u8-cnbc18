@@ -1,0 +1,11 @@
+:root {
+    color-scheme: light dark;
+    background-color: #242424;
+}
+
+#my_video_1 {
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+}
